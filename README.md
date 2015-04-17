@@ -11,7 +11,7 @@
 
 # Advanced Tutorials
 
-* [Buffers Windows & Ttabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/) - The basics
+* [Buffers Windows & Tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/) - The basics
 * [Text Objects](http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/) - The definitive guide to vim text objects
 
 # Fun Tips
