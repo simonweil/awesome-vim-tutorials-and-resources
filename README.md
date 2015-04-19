@@ -2,6 +2,7 @@
 # Getting started
 
 * [Derek Wyatt](http://derekwyatt.org/vim/tutorials/) - Vim Tutorial Videos - A great introduction to VIM
+* [Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/) - Important article by Yehuda Katz
 
 # Builtin vim learning
 
