@@ -19,3 +19,7 @@
 # Fun Tips
 
 * [Start vim with splits](http://blog.sanctum.geek.nz/start-vim-with-splits/)
+
+# CheatSheets
+* [Movements Map](https://bitbucket.org/tednaleid/vim-shortcut-wallpaper/raw/tip/vim-shortcuts.png)
+![Movements Map](https://bitbucket.org/tednaleid/vim-shortcut-wallpaper/raw/tip/vim-shortcuts.png)
